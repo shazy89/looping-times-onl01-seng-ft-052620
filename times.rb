@@ -1,6 +1,7 @@
 def using_times
 	#your code here
-	wingradium 
+	wingardium = "Wingardium Leviosa"
+	7.times {puts wingardium}
 end
 
 
